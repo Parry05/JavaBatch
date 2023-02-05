@@ -8,7 +8,7 @@ public class SpeedTest {
          If speed is 60 or less, the result is 0. If speed is between 61 and 80 inclusive, the result is 1.
           If speed is 81 or more, the result is 2.
         Unless it is your birthday -- on that day, your speed can be 5 higher in all cases.*/
-        int sc;
+        int  sc;
 
         Scanner scanner= new Scanner(System.in);
         System.out.println("what is the speed");
